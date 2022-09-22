@@ -18,6 +18,8 @@
         print(r.content)
 
 # Step 3: Parsing the HTML content 
+        soup = BeautifulSoup(r.content, 'html5lib')
+        print(soup.prettify())
 
         We create a BeautifulSoup object by passing two arguments:
         
