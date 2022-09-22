@@ -2,7 +2,7 @@
 
 # ============================================
 # Implementing Web Scraping in Python with BeautifulSoup
-# ======================================================
+# ============================================
 
 
 # Step 1: Installing the required third-party libraries
